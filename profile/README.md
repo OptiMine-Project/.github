@@ -26,19 +26,19 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
 | Role        | ID Asah      | Nama    | Universitas  | GitHub Profile  |
 | :---:       | :---:        | :---:   | :---:        | :---:           |
 | Back-End    | F183D5Y1450  | Nandana Ayudya Natasaskara | AMIKOM Jogjakarta | [nandana05-tech](https://github.com/nandana05-tech) |
-| Front-End   | F183D5Y1353  | Muhammad Rama Setama | AMIKOM Jogjakarta | (belum)|
+| Front-End   | F183D5Y1353  | Muhammad Rama Setama | AMIKOM Jogjakarta | (belum)| 
 | Front-End   | F183D5Y0481  |  Dicky Firdha Firmansyah | AMIKOM Jogjakarta | (belum)|
-| Machine Learning| M004D5X1615 | Rafidah Khoirun Nisa' | ITS Surabaya | (belum)|
-| Machine Learning| M004D5X1552 | Oryza Sative | ITS Surabaya | (belum)|
+| Machine Learning| M004D5X1615 | Rafidah Khoirun Nisa' | ITS Surabaya | [rafeeedah](https://github.com/rafeeedah) |
+| Machine Learning| M004D5X1552 | Oryza Sative | ITS Surabaya | [oryzava](https://github.com/oryzava) |
 
 ## Repositories 
 (belum)
 
 ## Technology Stack 
 - Machine Learning
-   * Framework  :
-   * IDE        :
-   * Libraries  :
+   * Framework  : Scikit-Learn
+   * IDE        : Google Colab
+   * Libraries  : Scikit-Learn, Numpy, Pandas
 - Back-End
   * apa
 - Front-End
