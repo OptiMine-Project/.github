@@ -45,8 +45,7 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
   [View Repository](https://github.com/OptiMine-Project/backendMiningV)  
   Web-based user interface for OptiMine, providing data visualization, scenario input, interactive dashboards, and AI-driven recommendations.
 
-- **OptiMine Retrieval-Augmented Generation (RAG)**  
-  [View Repository](https://github.com/OptiMine-Project/ragMining)  
+- [**OptiMine Retrieval-Augmented Generation (RAG)**](https://github.com/OptiMine-Project/ragMining)  
   AI layer that combines ML outputs with domain knowledge to generate contextual explanations, recommendations, and decision support through an interactive chat interface.
 
 
