@@ -58,3 +58,5 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
   * CSS Framework       : Tailwind CSS (CDN)
   * Visualization & UI  : Chart.js, Lucide Icons
   * Build Tool          : Webpack 5 + Dev Server
+
+## [Model ML](https://drive.google.com/drive/folders/1jORarmjgp1qw0hdR5LbAdoYjNoBh0y9F?usp=sharing)
