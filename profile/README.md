@@ -1,4 +1,4 @@
-# OptiMine ↗️
+# OptiMine: Mining Insights, Maximizing Value
 Asah Capstone Project for Mining Value Chain Optimization 
 
 ## Project Overview
