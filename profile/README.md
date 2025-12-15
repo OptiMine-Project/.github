@@ -25,9 +25,9 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
 ## Team Members and Roles
 | Role        | ID Asah      | Nama    | Universitas  | GitHub Profile  |
 | :---:       | :---:        | :---:   | :---:        | :---:           |
-| Back-End    | F183D5Y1450  | Nandana Ayudya Natasaskara | AMIKOM Yogjakarta | [nandana05-tech](https://github.com/nandana05-tech) |
-| Front-End   | F183D5Y1353  | Muhammad Rama Setama | AMIKOM Yogjakarta | [ramasaetamaa](https://github.com/ramasaetamaa)| 
-| Front-End   | F183D5Y0481  |  Dicky Firdha Firmansyah | AMIKOM Yogjakarta | [Firdhabungg](https://github.com/Firdhabungg)|
+| Back-End    | F183D5Y1450  | Nandana Ayudya Natasaskara | AMIKOM Yogyakarta | [nandana05-tech](https://github.com/nandana05-tech) |
+| Front-End   | F183D5Y1353  | Muhammad Rama Setama | AMIKOM Yogyakarta | [ramasaetamaa](https://github.com/ramasaetamaa)| 
+| Front-End   | F183D5Y0481  |  Dicky Firdha Firmansyah | AMIKOM Yogyakarta | [Firdhabungg](https://github.com/Firdhabungg)|
 | Machine Learning| M004D5X1615 | Rafidah Khoirun Nisa' | ITS Surabaya | [rafeeedah](https://github.com/rafeeedah) |
 | Machine Learning| M004D5X1552 | Oryza Sative | ITS Surabaya | [oryzava](https://github.com/oryzava) |
 
