@@ -39,13 +39,11 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
 - [**OptiMine Backend Service**](https://github.com/OptiMine-Project/backendMiningV)  
   Backend service responsible for API orchestration, model inference handling, data flow management, and integration between ML outputs and AI reasoning layers.
 
-- [**OptiMine Frontend (Web UI)**](https://github.com/OptiMine-Project/optimine-ui)  
-  Web-based user interface for OptiMine, providing data visualization, scenario input, interactive dashboards, and AI-driven recommendations.
-
 - [**OptiMine Retrieval-Augmented Generation (RAG)**](https://github.com/OptiMine-Project/ragMining)  
   AI layer that combines ML outputs with domain knowledge to generate contextual explanations, recommendations, and decision support through an interactive chat interface.
-
-
+  
+- [**OptiMine Frontend (Web UI)**](https://github.com/OptiMine-Project/optimine-ui)  
+  Web-based user interface for OptiMine, providing data visualization, scenario input, interactive dashboards, and AI-driven recommendations.
 
 ## Technology Stack 
 - Machine Learning
