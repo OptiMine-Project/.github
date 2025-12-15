@@ -33,16 +33,13 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
 
 ## Repositories
 
-- **OptiMine Machine Learning**  
-  [View Repository](https://github.com/OptiMine-Project/mining-ml)  
+- [**OptiMine Machine Learning**](https://github.com/OptiMine-Project/mining-ml)  
   Contains datasets, feature engineering logic, trained machine learning models, evaluation results, and inference pipelines for mining production, weather forecasting, and logistics optimization.
 
-- **OptiMine Backend Service**  
-  [View Repository](https://github.com/OptiMine-Project/optimine-ui)  
+- [**OptiMine Backend Service**](https://github.com/OptiMine-Project/optimine-ui)  
   Backend service responsible for API orchestration, model inference handling, data flow management, and integration between ML outputs and AI reasoning layers.
 
-- **OptiMine Frontend (Web UI)**  
-  [View Repository](https://github.com/OptiMine-Project/backendMiningV)  
+- [**OptiMine Frontend (Web UI)**](https://github.com/OptiMine-Project/backendMiningV)  
   Web-based user interface for OptiMine, providing data visualization, scenario input, interactive dashboards, and AI-driven recommendations.
 
 - [**OptiMine Retrieval-Augmented Generation (RAG)**](https://github.com/OptiMine-Project/ragMining)  
