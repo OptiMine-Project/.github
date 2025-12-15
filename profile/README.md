@@ -31,15 +31,36 @@ Industri pertambangan batubara merupakan salah satu bidang industri yang tergolo
 | Machine Learning| M004D5X1615 | Rafidah Khoirun Nisa' | ITS Surabaya | [rafeeedah](https://github.com/rafeeedah) |
 | Machine Learning| M004D5X1552 | Oryza Sative | ITS Surabaya | [oryzava](https://github.com/oryzava) |
 
-## Repositories 
-(belum)
+## Repositories
+
+- **OptiMine Machine Learning**  
+  [View Repository](https://github.com/OptiMine-Project/mining-ml)  
+  Contains datasets, feature engineering logic, trained machine learning models, evaluation results, and inference pipelines for mining production, weather forecasting, and logistics optimization.
+
+- **OptiMine Backend Service**  
+  [View Repository](https://github.com/OptiMine-Project/optimine-ui)  
+  Backend service responsible for API orchestration, model inference handling, data flow management, and integration between ML outputs and AI reasoning layers.
+
+- **OptiMine Frontend (Web UI)**  
+  [View Repository](https://github.com/OptiMine-Project/backendMiningV)  
+  Web-based user interface for OptiMine, providing data visualization, scenario input, interactive dashboards, and AI-driven recommendations.
+
+- **OptiMine Retrieval-Augmented Generation (RAG)**  
+  [View Repository](https://github.com/OptiMine-Project/ragMining)  
+  AI layer that combines ML outputs with domain knowledge to generate contextual explanations, recommendations, and decision support through an interactive chat interface.
+
+
 
 ## Technology Stack 
 - Machine Learning
-   * Framework  : Scikit-Learn
-   * IDE        : Google Colab
-   * Libraries  : Scikit-Learn, Numpy, Pandas
+   * Framework          : Scikit-Learn
+   * IDE                : Google Colab
+   * Libraries          : Numpy, Pandas, XGBoost, Scikit-optimize (skopt), Matplotlib, Seaborn
 - Back-End
-  * apa
+  * Framework           : FastAPI, Hapi.js
+  * Runtime             : Node.js 
 - Front-End
-  * apa ya
+  * Core Technologies   : HTML5, CSS3, JavaScript (ES6+)
+  * CSS Framework       : Tailwind CSS (CDN)
+  * Visualization & UI  : Chart.js, Lucide Icons
+  * Build Tool          : Webpack 5 + Dev Server
